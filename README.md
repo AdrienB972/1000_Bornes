@@ -1,7 +1,10 @@
 # Projet 1000 Bornes
 
+Janvier 2021
+
 Auteurs:
 Adrien BERNARD
+
 Naël MAVOUNGOU
 
 ## Execution
